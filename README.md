@@ -1,6 +1,7 @@
 # RNCryptor
 
 [![BuddyBuild](https://dashboard.buddybuild.com/api/statusImage?appID=57ea731dbd45750100873fb1&branch=master&build=latest)](https://dashboard.buddybuild.com/apps/57ea731dbd45750100873fb1/build/latest)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2FRNCryptor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2FRNCryptor?ref=badge_shield)
 
 Cross-language AES Encryptor/Decryptor [data format](https://github.com/RNCryptor/RNCryptor-Spec/blob/master/RNCryptor-Spec-v3.md).
 
@@ -283,3 +284,6 @@ the MIT License:
 >The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 >THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. ```
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcjcross%2FRNCryptor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcjcross%2FRNCryptor?ref=badge_large)
